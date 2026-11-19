@@ -1,0 +1,11 @@
+﻿employee-frontend/node_modules/
+employee-frontend/build/
+employee-frontend/dist/
+employee-frontend/.env*
+!employee-frontend/.env.example
+
+EmployeeManagementApi/**/bin/
+EmployeeManagementApi/**/obj/
+EmployeeManagementApi/**/*.user
+EmployeeManagementApi/**/*.suo
+EmployeeManagementApi/**/appsettings.Development.json
